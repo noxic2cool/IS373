@@ -1,3 +1,5 @@
+![Kernels](https://github.com/user-attachments/assets/e194f4f7-d66c-48d2-b3a0-6187b8a8e689)
+
 What is a Kernel?
 A kernel is the core component of an operating system (OS) that manages communication between hardware and software. It handles system resources like CPU, memory, and I/O devices.
 
