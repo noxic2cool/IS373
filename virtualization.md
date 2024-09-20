@@ -17,3 +17,4 @@ Virtualization is the creation of a virtual version of something, such as a serv
 
 # Conclusion
 Virtualization is a critical skill in today's tech landscape. By understanding tools like VirtualBox and WSL2, students can enhance their development, testing, and operational skills, preparing them for future careers in IT and software development.
+![image](https://github.com/user-attachments/assets/c419d8fb-8f37-4b9d-83ea-65c52df995df)
