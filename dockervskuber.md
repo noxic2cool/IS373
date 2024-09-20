@@ -1,3 +1,5 @@
+![Kub   Doc](https://github.com/user-attachments/assets/c51ebca8-6a76-479d-a900-a34628041f9d)
+
 Comparing Kubernetes and Docker
 Both Docker and Kubernetes are essential components in the containerization ecosystem, but they serve different purposes.
 
