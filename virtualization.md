@@ -1,6 +1,6 @@
+# What is Virtualization?
 ![image](https://github.com/user-attachments/assets/66c92d6b-6f2e-40ec-abe2-29d58b6dbfac)
 
-# What is Virtualization?
 Virtualization is the creation of a virtual version of something, such as a server, operating system, storage device, or network resources. It allows multiple operating systems to run on a single physical machine, enabling better resource utilization, isolation, and flexibility.
 
 # Importance of Virtualization
