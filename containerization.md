@@ -1,3 +1,5 @@
+![Container](https://github.com/user-attachments/assets/bf8dc0b7-afc4-451e-ba88-6d8938252c07)
+
 Overview of Windows Containerization
 
 What are Containers?
