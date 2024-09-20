@@ -1,12 +1,9 @@
 # IS373
 
-# UFO 
-
-*kernel.md
-*virtualization.md
-*wsl2.md
-*virtualbox.md
-*[Containerization](containerization.md)
-*dockervskuber.md
-
-# Article about Kernels, Virtualization (W2, VirtualBox), Containerization, how they relate to each other
+# Table of Contents
+* [Kernel](kernel.md)
+* [Virtualization](virtualization.md)
+* [WSL2](wsl2.md)
+* [Oracle VirtualBox](virtualbox.md)
+* [Containerization](containerization.md)
+* [Docker vs Kubernetes](dockervskuber.md)
