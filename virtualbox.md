@@ -1,4 +1,7 @@
 # What is VirtualBox?
+![image](https://github.com/user-attachments/assets/c0569bbc-651f-4ffe-8782-229858ee1ca2)
+*VirtualBox Logo*
+
 VirtualBox is an open-source virtualization software developed by Oracle. It allows users to create and manage VMs on their local machine.
 
 # Setting Up VirtualBox
@@ -19,5 +22,3 @@ Installation:
 4. Basic Configuration:
 * Adjust settings like network configuration, shared folders, and display settings as needed.
 * Explore VirtualBox settings to optimize performance (e.g., enabling hardware virtualization).
-
-![image](https://github.com/user-attachments/assets/9ae73cdb-f6a7-4481-bcca-6c6898243b63)
