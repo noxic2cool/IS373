@@ -1,5 +1,9 @@
 # IS373
 
+#Members:
+Blade Kirksey
+
+
 # Table of Contents
 ### 1. [Kernel](kernel.md)
 ### 2. [Virtualization](virtualization.md)
