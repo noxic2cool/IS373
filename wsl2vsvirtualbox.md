@@ -32,4 +32,4 @@ In summary, VirtualBox is suited for full virtualization needs, while WSL2 is de
 
 ## [WSL2 Setup](wsl2.md)
 ## [VirtualBox Setup](virtualbox.md)
-## [Table of Contents](README.md)
+### [Table of Contents](README.md)
