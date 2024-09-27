@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/28371c84-6714-437e-817b-e4142e7be12d) GitHub&copy;
+
 # GitHub Actions
 ## What are GitHub Actions?
 GitHub Actions is a powerful automation tool that allows you to create workflows for your GitHub repository. You can automate tasks like building, testing, and deploying your code.
