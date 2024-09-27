@@ -1,5 +1,5 @@
 # What is WSL2?
-![image](https://github.com/user-attachments/assets/7ef96bae-131d-4f93-a4de-dd071508ef7e)
+![image](https://github.com/user-attachments/assets/7ef96bae-131d-4f93-a4de-dd071508ef7e) OctoPerf &copy;
 
 WSL2 is a compatibility layer for running Linux binary executables natively on Windows 10 and later. It enables users to run a full Linux kernel alongside their Windows installation.
 
