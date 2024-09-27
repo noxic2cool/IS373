@@ -29,6 +29,7 @@ GitHub Actions is a powerful automation tool that allows you to create workflows
       pull_request:
         branches:
          - main
+         
     jobs:
       build:
         runs-on: ubuntu-latest
