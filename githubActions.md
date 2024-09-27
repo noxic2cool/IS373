@@ -20,20 +20,19 @@ GitHub Actions is a powerful automation tool that allows you to create workflows
 * In your GitHub repository, create a directory called `.github/workflows/.`
 * Inside that directory, create a YAML file (e.g., `ci.yml`).
 ### Example of a basic workflow
-`name: CI
-
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
-
-jobs:
-  build:
-    runs-on: ubuntu-latest`
+    name: Node.js CI
     
+    on:
+      push:
+        branches:
+         - main
+      pull_request:
+        branches:
+         - main
+    jobs:
+      build:
+        runs-on: ubuntu-latest
+        
     steps:
     - name: Check out code
       uses: actions/checkout@v2
