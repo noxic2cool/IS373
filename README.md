@@ -7,4 +7,4 @@
   * [Oracle VirtualBox](virtualbox.md)
 ### 3. [Containerization](containerization.md)
   * [Docker vs Kubernetes](dockervskuber.md)
-### 4. [Takeaways](12FactorApp.md)
+### 4. [Takeaways](takeaways.md)
