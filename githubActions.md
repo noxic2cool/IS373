@@ -46,7 +46,7 @@ jobs:
       
     - name: Run tests
       run: npm test
-`
+
 ## Key Components of the Workflow
 * `name`: The name of the workflow.
 * `on`: Specifies the events that trigger the workflow. Here, it triggers on pushes and pull requests to the main branch.
