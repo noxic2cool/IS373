@@ -17,8 +17,8 @@ GitHub Actions is a powerful automation tool that allows you to create workflows
 
 ## Getting Started
 1. Create a Workflow File
-* In your GitHub repository, create a directory called .github/workflows/.
-* Inside that directory, create a YAML file (e.g., ci.yml).
+* In your GitHub repository, create a directory called `.github/workflows/.`
+* Inside that directory, create a YAML file (e.g., `ci.yml`).
 ### Example of a basic workflow
 `name: CI
 
