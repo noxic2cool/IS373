@@ -1,6 +1,6 @@
 # What is VirtualBox?
 ![image](https://github.com/user-attachments/assets/c0569bbc-651f-4ffe-8782-229858ee1ca2)
-*VirtualBox Logo*
+Oracle VirtualBox &copy;
 
 VirtualBox is an open-source virtualization software developed by Oracle. It allows users to create and manage VMs on their local machine.
 
