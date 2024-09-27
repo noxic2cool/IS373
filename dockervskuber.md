@@ -20,3 +20,6 @@ Load Balancing: Automatically distributes traffic to ensure consistent performan
 Self-Healing: Automatically restarts containers that fail, reschedules them, or replaces them based on defined policies.
 Service Discovery: Provides DNS-based service discovery, making it easier for containers to find and communicate with each other.
 Use Cases: Best suited for complex, distributed applications requiring high availability, scaling, and continuous integration/deployment (CI/CD).
+
+## [Twelve Factor App](12factorapp.md)
+### [Table of Contents](README.md)
