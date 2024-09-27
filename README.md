@@ -8,3 +8,4 @@
 ### 3. [Containerization](containerization.md)
   * [Docker vs Kubernetes](dockervskuber.md)
 ### 4. [Takeaways](takeaways.md)
+### 5. [Twelve Factor App](12factorapp.md)
