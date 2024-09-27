@@ -27,5 +27,9 @@
 * VirtualBox: Can create complex network setups (NAT, Bridged, Host-only) and allows for detailed control over network settings.
 
 * WSL2: Automatically integrates with the Windows network stack, allowing easy access to network resources.
-### Conclusion
+# Conclusion
 In summary, VirtualBox is suited for full virtualization needs, while WSL2 is designed for lightweight, efficient Linux usage on Windows. Your choice will depend on your specific use case and requirements.
+
+## [WSL2 Setup](wsl2.md)
+## [VirtualBox Setup](virtualbox.md)
+## [Table of Contents](README.md)
