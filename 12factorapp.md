@@ -31,5 +31,5 @@ The 12 Factor App is a methodology for building software-as-a-service applicatio
 
 Following these principles helps developers create applications that are resilient, easy to manage, and scalable.
 
-## [Takeaways](takeaways.md)
+## [GitHub Actions](githubActions.md)
 ### [Table of Contents](README.md)
