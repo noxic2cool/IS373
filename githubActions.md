@@ -33,19 +33,19 @@ GitHub Actions is a powerful automation tool that allows you to create workflows
       build:
         runs-on: ubuntu-latest
         
-    steps:
-    - name: Check out code
+      steps:
+      - name: Check out code
       uses: actions/checkout@v2
       
-    - name: Set up Node.js
+      - name: Set up Node.js
       uses: actions/setup-node@v2
       with:
         node-version: '14'
         
-    - name: Install dependencies
+      - name: Install dependencies
       run: npm install
       
-    - name: Run tests
+      - name: Run tests
       run: npm test
 
 ## Key Components of the Workflow
