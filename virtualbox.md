@@ -22,3 +22,7 @@ Installation:
 4. Basic Configuration:
 * Adjust settings like network configuration, shared folders, and display settings as needed.
 * Explore VirtualBox settings to optimize performance (e.g., enabling hardware virtualization).
+
+## [WSL2 Setup](wsl2.md)
+## [Containerization](containerization.md)
+### [Table of Contents](README.md)
