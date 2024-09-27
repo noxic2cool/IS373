@@ -30,3 +30,6 @@ The 12 Factor App is a methodology for building software-as-a-service applicatio
 12. **Admin processes**: Run administrative or management tasks as one-off processes, ensuring that they are easily executed in the same environment.
 
 Following these principles helps developers create applications that are resilient, easy to manage, and scalable.
+
+## [Takeaways](takeaways.md)
+### [Table of Contents](README.md)
