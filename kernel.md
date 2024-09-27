@@ -32,3 +32,5 @@ Real-time Systems: Used in applications requiring predictable timing.
 Embedded Systems: Found in IoT devices and appliances.
 Conclusion
 Kernels are vital for managing system resources, ensuring efficient and secure operation of software on hardware. Understanding their types and functions is key for system design and application development.
+
+## [To Containerization](containerization.md)
